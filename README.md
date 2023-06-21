@@ -19,14 +19,14 @@ suppose you are in the team to work on this project, using c++ programming langu
 2.1)Define a function listItems() which displays all items from the csv file on console as indicated below:
 
 ----------------------------------------------------------
-
-Item ID: 2        Item Name: BedCover          Quantity: 23        Reg Date: 2023-01-01
-Item ID: 5        Item Name: Chalks            Quantity: 25        Reg Date: 2023-01-01
-Item ID: 3        Item Name: computer          Quantity: 16        Reg Date: 2023-01-01
-Item ID: 6        Item Name: MarkerPen         Quantity: 30        Reg Date: 2023-01-01
-Item ID: 1        Item Name: Mattress          Quantity: 10        Reg Date: 2023-01-01
-Item ID: 4        Item Name: Projector         Quantity: 20        Reg Date: 2023-01-01
-Item ID: 7        Item Name: RimOfPaper        Quantity: 35        Reg Date: 2023-01-01
+*
+         Item ID: 2        Item Name: BedCover          Quantity: 23        Reg Date: 2023-01-01
+         Item ID: 5        Item Name: Chalks            Quantity: 25        Reg Date: 2023-01-01
+         Item ID: 3        Item Name: computer          Quantity: 16        Reg Date: 2023-01-01
+         Item ID: 6        Item Name: MarkerPen         Quantity: 30        Reg Date: 2023-01-01
+         Item ID: 1        Item Name: Mattress          Quantity: 10        Reg Date: 2023-01-01
+         Item ID: 4        Item Name: Projector         Quantity: 20        Reg Date: 2023-01-01
+         Item ID: 7        Item Name: RimOfPaper        Quantity: 35        Reg Date: 2023-01-01
 
 Item ID : 1    Item Name : Mattress    Quantity : 10 Reg Date: 2023-01-01
 
