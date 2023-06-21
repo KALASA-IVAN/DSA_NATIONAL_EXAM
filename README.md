@@ -4,15 +4,20 @@
 
 (THE QUESTION)
 
-```Rwanda coding academy is a special school which teaches coding to young people who have completed o level to become good software engineers not only on Rwandan market but also abroad.
+```Rwanda coding academy is a special school which teaches coding to young people who have completed o level to become good
+software engineers not only on Rwandan market but also abroad.
 It wants to develop an inventory system in which there is a module of recording items which get in and out of its store.
 The data entered on local device are saved in csv file so that they can be moved to the RCA server after.
 
-suppose you are in the team to work on this project, using c++ programming language, develop the features specified in the next list of requirements:
+suppose you are in the team to work on this project, using c++ programming language, develop the features specified in the
+next list of requirements:
 
-..1) The software should allow user to add a new item recorded at the first time in RCA inventory using "itemadd" command. The item's record is made of item_id, item_name, item_quantity, item_registration_date and their values are given at once, separated by spaces as arguments of itemadd command.
+..1) The software should allow user to add a new item recorded at the first time in RCA inventory using "itemadd" command.
+The item's record is made of item_id, item_name, item_quantity, item_registration_date and their values are given at once,
+separated by spaces as arguments of itemadd command.
 
-1.1) Define a function addItem() which receives values for item_id, item_name, item_quantity and item_registration_date as argument and put them in the created csv value.
+1.1) Define a function addItem() which receives values for item_id, item_name, item_quantity and item_registration_date as
+argument and put them in the created csv value.
 
 2) The software should allow user to list items in the stock in alphabetically sorted order. using the "itemslist" command.
 
