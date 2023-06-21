@@ -1,5 +1,5 @@
 # DSA_NATIONAL_EXAM
-##RCA inventory system
+## RCA inventory system
 ###**Complete version of the DATA STRUCTURES AND ALGORITHMS NATIONAL EXAM**
 
 (THE QUESTION)
